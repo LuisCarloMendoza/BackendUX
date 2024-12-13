@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325790088808",
+    "project_id": "projectux-q4",
+    "storage_bucket": "projectux-q4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325790088808:android:9891d0b67f6fb6b27dc5dd",
+        "android_client_info": {
+          "package_name": "com.example.backend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ1jIx41GCoHl9ZCmIJE_VDXwuFwsc7So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
